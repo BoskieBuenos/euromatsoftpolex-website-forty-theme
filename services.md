@@ -2,7 +2,7 @@
 layout: page
 title: Services
 description: Software Solutions, Data Engineering, Web & Mobile, Consulting
-image: assets/images/quirky-device-joshua-coleman.jpg
+image: assets/images/quirky-device-joshua-coleman-md.jpg
 nav-menu: true
 show_tile: true
 ---
