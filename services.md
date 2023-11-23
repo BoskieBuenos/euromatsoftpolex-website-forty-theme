@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Services
+description: Software Solutions, Data Engineering, Web & Mobile, Consulting
 image: assets/images/pic01.jpg
 nav-menu: true
 show_tile: true
@@ -13,7 +14,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Services we provide</h1>
 		</header>
 
 <!-- Content -->
