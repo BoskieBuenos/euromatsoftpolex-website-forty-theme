@@ -3,7 +3,7 @@ layout: page
 title: Elements
 image: assets/images/pic01.jpg
 nav-menu: true
-show-tile: false
+show_tile: false
 ---
 
 <!-- Main -->
