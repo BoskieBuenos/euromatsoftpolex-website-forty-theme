@@ -38,14 +38,24 @@ Category: Software Engineering, Data Engineering
 		<div class="row">
 					<span class="image left"><img src="{% link assets/images/real-estate-blake-wheeler-sm.jpg %}" alt="" /></span>
 <!-- 				</header> -->
-				<h4>Challenge</h4>
-				<p>Our engineering team, while engaged with a major player in the U.S. real estate sector, was tasked to enhance their existing data processing capabilities. The client faced challenges with their current data pipeline, which was not only time-consuming but also lacked the efficiency needed to process vast amounts of real estate data effectively.</p>
-				<h4>Solution</h4>
-				<p>Leveraging our expertise in software and data engineering, and employing agile development practices, our engineers developed a groundbreaking data pipeline solution. This project involved an iterative approach, enhancing our understanding of the core issues and dynamically adjusting the design. We utilized advanced tools from the Google Cloud Platform, ensuring a modern and scalable solution that significantly improved data processing and analysis.</p>
-				<h4>Results</h4>
-				<p>The implementation of this optimized pipeline marked a paradigm shift in operational efficiency, cutting down process time by a remarkable 99%. This enhancement not only resulted in multi-million dollar savings for the corporation but also solidified their competitive position in the U.S. real estate market. The client now benefits from a faster, more agile, and cost-efficient data processing framework, pivotal for informed decision-making in the fast-paced real estate industry.</p>
-				<h4>Our Contribution</h4>
-				<p>Our engineers' role was pivotal in conceptualizing, designing, and implementing this innovative data pipeline. Our agile approach and deep understanding of both software and data engineering enabled us to deliver a solution that was not just a technical success but also a strategic win for our client.</p>
+				<dl>
+					<dt>Challenge</dt>
+					<dd>
+						<p>Our engineering team, while engaged with a major player in the U.S. real estate sector, was tasked to enhance their existing data processing capabilities. The client faced challenges with their current data pipeline, which was not only time-consuming but also lacked the efficiency needed to process vast amounts of real estate data effectively.</p>
+					</dd>
+					<dt>Solution</dt>
+					<dd>
+						<p>Leveraging our expertise in software and data engineering, and employing agile development practices, our engineers developed a groundbreaking data pipeline solution. This project involved an iterative approach, enhancing our understanding of the core issues and dynamically adjusting the design. We utilized advanced tools from the Google Cloud Platform, ensuring a modern and scalable solution that significantly improved data processing and analysis.</p>
+					</dd>
+					<dt>Results</dt>
+					<dd>
+						<p>The implementation of this optimized pipeline marked a paradigm shift in operational efficiency, cutting down process time by a remarkable 99%. This enhancement not only resulted in multi-million dollar savings for the corporation but also solidified their competitive position in the U.S. real estate market. The client now benefits from a faster, more agile, and cost-efficient data processing framework, pivotal for informed decision-making in the fast-paced real estate industry.</p>
+					</dd>
+					<dt>Our Contribution</dt>
+					<dd>
+						<p>Our engineers' role was pivotal in conceptualizing, designing, and implementing this innovative data pipeline. Our agile approach and deep understanding of both software and data engineering enabled us to deliver a solution that was not just a technical success but also a strategic win for our client.</p>
+					</dd>
+				</dl>
 		</div>
 <!-- 			</div> -->
 <!-- 		</div> -->
