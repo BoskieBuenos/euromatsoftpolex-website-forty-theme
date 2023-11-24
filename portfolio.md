@@ -19,7 +19,7 @@ Category: Software Engineering, Data Engineering
 		<header class="major">
 			<h2>Portfolio</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Selected Projects: Highlighting Our Team's Key Contributions in Advanced Engineering Across Various Ventures</p>
 	</div>
 </section>
 
