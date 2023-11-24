@@ -36,9 +36,9 @@ Category: Software Engineering, Data Engineering
 					<h3>Revolutionary Data Pipeline Transformation for the Real Estate Sector</h3>
 					<p>Industry: Real Estate, United States</p>
 		<div class="row">
-					<span class="image left"><img src="{% link assets/images/real-estate-blake-wheeler-sm.jpg %}" alt="" /></span>
 <!-- 				</header> -->
 				<dl>
+					<span class="image left"><img src="{% link assets/images/real-estate-blake-wheeler-sm.jpg %}" alt="" /></span>
 					<dt>Challenge</dt>
 					<dd>
 						<p>Our engineering team, while engaged with a major player in the U.S. real estate sector, was tasked to enhance their existing data processing capabilities. The client faced challenges with their current data pipeline, which was not only time-consuming but also lacked the efficiency needed to process vast amounts of real estate data effectively.</p>
