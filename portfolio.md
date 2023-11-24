@@ -34,8 +34,9 @@ Category: Software Engineering, Data Engineering
 <!-- 			<div class="inner"> -->
 <!-- 				<header class="major"> -->
 					<h3>Revolutionary Data Pipeline Transformation for the Real Estate Sector</h3>
-					<span class="image left"><img src="{% link assets/images/real-estate-blake-wheeler-sm.jpg %}" alt="" />
 					<p>Industry: Real Estate, United States</p>
+		<div class="row">
+					<span class="image left"><img src="{% link assets/images/real-estate-blake-wheeler-sm.jpg %}" alt="" />
 <!-- 				</header> -->
 				<h4>Challenge</h4>
 				<p>Our engineering team, while engaged with a major player in the U.S. real estate sector, was tasked to enhance their existing data processing capabilities. The client faced challenges with their current data pipeline, which was not only time-consuming but also lacked the efficiency needed to process vast amounts of real estate data effectively.</p>
@@ -45,10 +46,12 @@ Category: Software Engineering, Data Engineering
 				<p>The implementation of this optimized pipeline marked a paradigm shift in operational efficiency, cutting down process time by a remarkable 99%. This enhancement not only resulted in multi-million dollar savings for the corporation but also solidified their competitive position in the U.S. real estate market. The client now benefits from a faster, more agile, and cost-efficient data processing framework, pivotal for informed decision-making in the fast-paced real estate industry.</p>
 				<h4>Our Contribution</h4>
 				<p>Our engineers' role was pivotal in conceptualizing, designing, and implementing this innovative data pipeline. Our agile approach and deep understanding of both software and data engineering enabled us to deliver a solution that was not just a technical success but also a strategic win for our client.</p>
+		</div>
 <!-- 			</div> -->
 <!-- 		</div> -->
 <!-- 	</section> -->
 
+<section id="three">
   	<section>
    		<a href="generic.html" class="image">
 			<img src="{% link assets/images/numbers-mika-baumeister-md.jpg %}" alt="" data-position="center center" />
