@@ -19,7 +19,8 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
-          {% for post in site.posts %}
+	  {% assign posts = site.posts | where_exp: "item", "item.show_post != false" %}
+          {% for post in posts %}
 	  {% if post.title != 404 %}
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
