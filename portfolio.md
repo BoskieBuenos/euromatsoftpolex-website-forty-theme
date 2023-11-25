@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: Selected Projects: Highlighting Our Team's Key Contributions in Advanced Engineering Across Various Ventures
+description: "Selected Projects: Highlighting Our Team's Key Contributions in Advanced Engineering Across Various Ventures"
 image: assets/images/polonez-mateusz-suski-md.jpg
 nav-menu: true
 show_tile: true
