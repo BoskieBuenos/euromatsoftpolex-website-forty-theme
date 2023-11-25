@@ -1,27 +1,22 @@
 ---
-layout: page
 title: Portfolio
-description: 
+layout: landing
+description: Selected Projects: Highlighting Our Team's Key Contributions in Advanced Engineering Across Various Ventures
 image: assets/images/polonez-mateusz-suski-md.jpg
 nav-menu: true
 show_tile: true
 ---
-<!--
-# (trfrmr)
-Category: Software Engineering, Data Engineering
--->
 <!-- Main -->
 <div id="main">
-
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="">
-			<h2>Portfolio</h2>
-		</header>
-		<p>Selected Projects: Highlighting Our Team's Key Contributions in Advanced Engineering Across Various Ventures</p>
-	</div>
-</section>
+<!-- <section id="one"> -->
+<!-- 	<div class="inner"> -->
+<!-- 		<header class=""> -->
+<!-- 			<h2>Portfolio</h2> -->
+<!-- 		</header> -->
+<!-- 		<p>Selected Projects: Highlighting Our Team's Key Contributions in Advanced Engineering Across Various Ventures</p> -->
+<!-- 	</div> -->
+<!-- </section> -->
 
 <!-- Two -->
 <section id="two">
