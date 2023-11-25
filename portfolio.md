@@ -32,11 +32,11 @@ Category: Software Engineering, Data Engineering
 <!-- 		</a> -->
 <!-- 		<div class="content"> -->
 <!-- 			<div class="inner"> -->
-<!-- 				<header class="major"> -->
+				<header class="major">
 					<h3>Revolutionary Data Pipeline Transformation for the Real Estate Sector</h3>
 					<p>Industry: Real Estate, United States</p>
+				</header>
 		<div class="row">
-<!-- 				</header> -->
 				<dl>
 					<span class="image left"><img src="{% link assets/images/real-estate-blake-wheeler-sm.jpg %}" alt="" /></span>
 					<dt>Challenge</dt>
@@ -60,34 +60,40 @@ Category: Software Engineering, Data Engineering
 <!-- 			</div> -->
 <!-- 		</div> -->
 <!-- 	</section> -->
-
-<section id="three">
-  	<section>
-   		<a href="generic.html" class="image">
-			<img src="{% link assets/images/numbers-mika-baumeister-md.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
+<!-- <section id="three"> -->
+<!--   	<section> -->
+<!--    		<a href="generic.html" class="image"> -->
+<!-- 			<img src="{% link assets/images/numbers-mika-baumeister-md.jpg %}" alt="" data-position="center center" /> -->
+<!-- 		</a> -->
+<!-- 		<div class="content"> -->
+<!-- 			<div class="inner"> -->
 				<header class="major">
     					<h3>Advanced Financial Data Visualization System</h3>
     					<p>Industry: Finance</p>
 				</header>
-
-				<h4>Challenge</h4>
-				<p>Our team tackled a complex project aimed at visualizing extensive financial data, delivered in daily files containing tens of thousands of records each. This data, a result of cyclic reporting processes, required an efficient system to handle the immense volume and value it represented - often amounting to billions of USD annually.</p>
-
-				<h4>Solution</h4>
-				<p>The project was divided into two key components. Firstly, we implemented batch processing using Spring Batch, which efficiently managed the input files to prepare the data for visualization. This step was crucial to handle the sheer volume and complexity of the financial data accurately. Secondly, we developed a web application utilizing Spring and Angular to create a user-friendly, interactive platform for visualizing the processed data. This dual approach ensured not only the meticulous handling of the data but also its effective presentation for end-users.</p>
-
-				<h4>Results</h4>
-				<p>Our solution successfully processed and visualized several million financial records annually. The sophisticated batch processing and web application we developed provided a seamless, intuitive experience for users, allowing for easy access and understanding of complex financial information. The system's ability to handle and display data worth billions of USD demonstrated its robustness and reliability.</p>
-
-				<h4>Our Contribution</h4>
-				<p>Our role in this project was integral to its success. By combining our expertise in Spring Batch for backend processing and Spring with Angular for frontend development, we created a comprehensive system that not only processed large-scale financial data efficiently but also provided a highly effective visualization tool. This project showcased our team's ability to deliver complex, high-value solutions in the financial sector.</p>
-    
-			</div>
+		<div class="row">
+			<dl>
+				<span class="image left"><img src="{% link assets/images/numbers-mika-baumeister-md.jpg %}" alt="" /></span>
+				<dt>Challenge</dt>
+				<dd>
+					<p>Our team tackled a complex project aimed at visualizing extensive financial data, delivered in daily files containing tens of thousands of records each. This data, a result of cyclic reporting processes, required an efficient system to handle the immense volume and value it represented - often amounting to billions of USD annually.</p>
+				</dd>
+				<dt>Solution</dt>
+				<dd>
+					<p>The project was divided into two key components. Firstly, we implemented batch processing using Spring Batch, which efficiently managed the input files to prepare the data for visualization. This step was crucial to handle the sheer volume and complexity of the financial data accurately. Secondly, we developed a web application utilizing Spring and Angular to create a user-friendly, interactive platform for visualizing the processed data. This dual approach ensured not only the meticulous handling of the data but also its effective presentation for end-users.</p>
+				</dd>
+				<dt>Results</dt>
+				<dd>
+					<p>Our solution successfully processed and visualized several million financial records annually. The sophisticated batch processing and web application we developed provided a seamless, intuitive experience for users, allowing for easy access and understanding of complex financial information. The system's ability to handle and display data worth billions of USD demonstrated its robustness and reliability.</p>
+				</dd>
+				<dt>Our Contribution</dt>
+				<dd>
+					<p>Our role in this project was integral to its success. By combining our expertise in Spring Batch for backend processing and Spring with Angular for frontend development, we created a comprehensive system that not only processed large-scale financial data efficiently but also provided a highly effective visualization tool. This project showcased our team's ability to deliver complex, high-value solutions in the financial sector.</p>
+				</dd>
+    			</dl>
+<!-- 			</div> -->
   		</div>
-	</section>
+<!-- 	</section> -->
 	<!--
   <section>
 		<a href="generic.html" class="image">
