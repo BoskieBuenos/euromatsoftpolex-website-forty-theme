@@ -3,7 +3,7 @@ title: EuroMatSoftPolex
 subtitle: Software Agency
 email: euromatsoftpolex@gmail.com
 description: Welcome to EuroMatSoftPolex, your destination for<br />innovative and tailor-made software solutions.
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: https://euromatsoftpolex.com # the base hostname & protocol for your site
 author: EuroMatSoftPolex
 street_address:
